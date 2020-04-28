@@ -1,0 +1,19 @@
+
+git clone <repo_path> - clone the remote repo to local system
+git branch - shows all the branches
+git branch <branch_name> - makes a new branch of specified name
+git merge <branch> - merges the specified branch to the current one
+git add <files> - adds the specified files to staged area for committing
+git commit -m "<msg>" - commits all the changes alongwith a message/description.
+git pull - to pull the most recent changes in the remote repo to local repo
+git push origin <branch> - pushes all the changes done in local repo to the specified branch in the remote repo
+git status - to check the status of local repo, the staged files, files ready to be committed, status with respect to remote repo etc.
+
+nano <filename> or vi <filename> - creates a new file ofspecified name and open it in nano or vi text editor repectively
+mv <old> <new> - used to move files from one place to another, can be used to rename a file too.
+
+======================================================
+
+Conflicts -
+While merging, conflicts arises when the same file is modified from two different branches and then those branches are tried to merge together.
+Other conflicts like two different files in the two branches doesn't produce conflicts just as in my case. I merged two branches with answer.txt in one and explanation.txt in another, so git automatically resolves this conflict as the files weren't the same.
