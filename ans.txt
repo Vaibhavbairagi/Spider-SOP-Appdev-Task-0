@@ -1,0 +1,4 @@
+EXPLAIN
+Eggshell is mostly made from calcium carbonate (CaCO₃). Hens get their supply of calcium for eggshell production from dietary sources (calcium-rich seafood shells, such as oyster or prawn shells, are a popular snack for backyard hens for this reason).
+
+To form a shell, the calcium needs to be deposited in the form of CaCO₃ crystals, and hens rely on specific proteins that enable this process. One such protein, called ovocleidin-17 (or OC-17 for short), is only found in the ovary of a chicken, leading to the suggestion that the chicken must have come before the chicken egg, since without OC-17, there can be no chicken egg formation. 
