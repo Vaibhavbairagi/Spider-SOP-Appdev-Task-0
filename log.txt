@@ -1,0 +1,57 @@
+1) git config
+
+Utility : To set your user name and email in the main configuration file.
+   To check your name and email type in git config --global user.name and git config --global user.email. And to set your new email or name git config --global user.name = “abcd” and git config --global user.email = “abcd@gmail.com”
+
+2) git clone
+
+Utility : To copy a git repository from remote source, also sets the remote to original source so that you can pull again.
+      git clone <:clone git url:>
+
+3) git status
+
+Utility : To check the status of files you’ve changed in your working directory, i.e, what all has changed since your last commit.
+      git status in your working directory. lists out all the files that have been changed.
+
+4) git add
+
+Utility : adds changes to stage/index in your working directory.
+     git add .
+
+
+5) git commit
+
+Utility : commits your changes and sets it to new commit object for your remote.
+     git commit -m”sweet little commit message”
+
+
+6) git push/git pull
+
+Utility : Push or Pull your changes to remote. If you have added and committed your changes and you want to push them. Or if your remote has updated and you want those latest changes.
+      git pull <:remote:> <:branch:> and git push <:remote:> <:branch:>
+
+
+7) git branch
+
+Utility : Lists out all the branches.
+      git branch or git branch -a to list all the remote branches as well.
+
+8) git checkout
+
+Utility : Switch to different branches
+    git checkout <:branch:> or **_git checkout -b <:branch:> if you want to create and switch to a new branch.
+
+
+9)touch
+ Utility:create a new file in current branch.
+     touch<filename>
+
+
+10) git merge
+
+Utility : Merge two branches you were working on.
+     Switch to branch you want to merge everything in. git merge <:branch_you_want_to_merge:>
+
+11) mv 
+Utility:to move a file or rename it .
+   git mv <old> <new>
