@@ -1,0 +1,61 @@
+COMMANDS USED FOR THE TASK
+
+1. git clonehttps://github.com/ishawaghulde/SOPTask0.git
+
+This was used to clone the repository to local
+
+2. git checkout -b Ankur_Sinha
+
+Making a new branch with my name and switching to it.
+
+3. git add
+
+Add file to branch
+
+4. git commit
+
+Used to commit changes
+
+5.git checkout -b oneword
+
+New branch and switched to it
+
+6. git add 
+
+Add file to branch
+
+7. git commit
+
+Commit changes
+
+8. git checkout -b reason
+
+New branch and switched to it
+
+9. git add
+
+Add file to branch
+
+10. git commit
+
+Commit changes
+
+11. git checkout master
+
+Switching to master branch
+
+12. git merge Ankur_Sinha
+
+Merging branches
+
+13. git merge oneword
+
+Merge branches
+
+14. git merge reason
+
+Merge branches
+
+15. git push
+
+Pushing to remote repo.
